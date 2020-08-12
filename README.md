@@ -1,6 +1,7 @@
 # CrossDrop
 
 **CrossDrop**是一个跨平台的类似于Airdrop的文件传输工具，旨在实现高速、便捷的跨平台文件传输功能
+
 预计将支持macOS, Windows, Linux, Android, ~~iOS(因为我没有iPhone)~~
 
 ## Why CrossDrop?

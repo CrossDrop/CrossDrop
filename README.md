@@ -15,7 +15,7 @@
 ## What will CrossDrop do?
 
 1. CrossDrop is **NOT** campatible with Airdrop!!!!
-2. 尽可能得实现类似Airdrop丝滑的传输体验
+2. 尽可能实现类似Airdrop丝滑的文件传输体验
 
 ## How does CrossDrop work? (猜想阶段，PoC正在努力)
 

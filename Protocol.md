@@ -11,7 +11,7 @@
 1. Sender starts Bluetooth as client, finding servers
 2. Receiver starts Bluetooth as server and starts advertising
 3. Sender lists servers, user chooses one target(receiver)
-4. Sender connect to one receiver via Bluetooth LE
+4. Sender connect to one receiver via Bluetooth 
 
 5. Sender send metadata to receiver as follow:
 ```
